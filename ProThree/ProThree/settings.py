@@ -25,7 +25,7 @@ SECRET_KEY = 't!hpvi&x*gq!3&$#470u#h38c%acpjy=u(_8dq0x_sq)pcq0!e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['abemas.pythonanywhere.com']
 
 
 # Application definition
